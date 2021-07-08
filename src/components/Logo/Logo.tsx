@@ -5,7 +5,6 @@ function Logo() {
     return (
       <div className="logo-wrapper">
         <span className="logo">Outlaid</span>
-        <span className="underline"/>
       </div>
     );
 }
